@@ -180,7 +180,7 @@ a {
 
 a {
     /* display: block; */
-    font-size: 1rem;
+    font-size: 0.8rem;
     text-decoration: none;
     margin-bottom: 0.3rem;
     color: hsl(0, 0%, 50%);
@@ -217,7 +217,7 @@ a {
 
 .dropdown-content { 
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     align-content: center;
     opacity: 1;
     visibility: visible;
@@ -239,7 +239,13 @@ a {
     padding: 10px 20px;
     max-width: 500px;
 }
+#vokabeln {
+    position: relative;
+    /* display: grid; */
+    /* border: 1px solid red; */
+    overflow: visible;
 
+}
     
 }
 

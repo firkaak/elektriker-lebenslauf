@@ -20,7 +20,17 @@ function loadMeineVokab() {
         "planung",
         "fotograf",
         "logisch",
-        "denken"
+        "denken",
+        "zuverlässig",
+        "Strom",
+        "Systeme",
+        "Team",
+        "kreativen",
+        "technischen",
+        "Lösung",
+        "Hintergrund",
+        "verbinden",
+        "Absichten"
     ];
 
     let w = window.innerWidth;
