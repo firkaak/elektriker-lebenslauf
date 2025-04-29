@@ -14,7 +14,7 @@ function loadMeineVokab() {
         "industrieelektriker",
         "verkabelung",
         "ausmessen",
-        "verteiler",
+        "Verteiler",
         "ziehen",
         "entwickeln",
         "planung",
@@ -30,7 +30,10 @@ function loadMeineVokab() {
         "Lösung",
         "Hintergrund",
         "verbinden",
-        "Absichten"
+        "Absichten",
+        "Herausforderung",
+        "Entwicklung",
+        "Zukunft"
     ];
 
     let w = window.innerWidth;
