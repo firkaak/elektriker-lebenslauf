@@ -217,7 +217,7 @@ a {
 
 .dropdown-content { 
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     align-content: center;
     opacity: 1;
     visibility: visible;
